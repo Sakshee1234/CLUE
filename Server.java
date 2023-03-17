@@ -872,10 +872,7 @@ public class Server {
             } while (true);
 
 
-        } catch (
-
-
-        Exception e) {
+        } catch (Exception e) {
 
 
         }
